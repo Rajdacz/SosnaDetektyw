@@ -1,0 +1,1 @@
+$summon minecraft:item_display ~ ~ ~ {Tags:["objects.seat"],Passengers:[{id:"interaction",Tags:["objects.seat.interaction"],width:$(width),height:$(height)}]}

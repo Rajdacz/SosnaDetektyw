@@ -1,0 +1,1 @@
+execute if score #quest game matches -2147483648..2147483647 run function f:game/quests/zzz/display with storage f:game

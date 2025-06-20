@@ -1,0 +1,733 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/structure_void"
+		},
+		"cases": [
+			{
+				"when": "window1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/window1"
+				}
+			},
+			{
+				"when": "window2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/window2"
+				}
+			},
+			{
+				"when": "dumpster1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/dumpster1"
+				}
+			},
+			{
+				"when": "dumpster2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/dumpster2"
+				}
+			},
+			{
+				"when": "trashcan1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/trashcan1"
+				}
+			},
+			{
+				"when": "trashcan2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/trashcan2"
+				}
+			},
+			{
+				"when": "trashcan3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/trashcan3"
+				}
+			},
+			{
+				"when": "box1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/box1"
+				}
+			},
+			{
+				"when": "box2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/box2"
+				}
+			},
+			{
+				"when": "box3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/box3"
+				}
+			},
+			{
+				"when": "dark_oak_door",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/dark_oak_door"
+				}
+			},
+			{
+				"when": "hospital_door",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/hospital_door"
+				}
+			},
+			{
+				"when": "garbage1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/garbage1"
+				}
+			},
+			{
+				"when": "manhole",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/manhole"
+				}
+			},
+			{
+				"when": "barrier1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/barrier1"
+				}
+			},
+			{
+				"when": "police_barrier",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/police_barrier"
+				}
+			},
+			{
+				"when": "graffiti1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/graffiti1"
+				}
+			},
+			{
+				"when": "graffiti2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/graffiti2"
+				}
+			},
+			{
+				"when": "graffiti3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/graffiti3"
+				}
+			},
+			{
+				"when": "chair1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/chair1"
+				}
+			},
+			{
+				"when": "chair2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/chair2"
+				}
+			},
+			{
+				"when": "chair3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/chair3"
+				}
+			},
+			{
+				"when": "graffiti4",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/graffiti4"
+				}
+			},
+			{
+				"when": "graffiti5",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/graffiti5"
+				}
+			},
+			{
+				"when": "street_lamp",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/street_lamp"
+				}
+			},
+			{
+				"when": "street_lamp_enabled",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/street_lamp_enabled"
+				}
+			},
+			{
+				"when": "outdoorfan1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/outdoorfan1"
+				}
+			},
+			{
+				"when": "button1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/button1"
+				}
+			},
+			{
+				"when": "garbage2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/garbage2"
+				}
+			},
+			{
+				"when": "bricks",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/bricks"
+				}
+			},
+			{
+				"when": "graffiti6",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/graffiti6"
+				}
+			},
+			{
+				"when": "paint_can1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/paint_can1"
+				}
+			},
+			{
+				"when": "paint_can2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/paint_can2"
+				}
+			},
+			{
+				"when": "paint_can3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/paint_can3"
+				}
+			},
+			{
+				"when": "ladder1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/ladder1"
+				}
+			},
+			{
+				"when": "paint1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/paint1"
+				}
+			},
+			{
+				"when": "paint2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/paint2"
+				}
+			},
+			{
+				"when": "paint3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/paint3"
+				}
+			},
+			{
+				"when": "car",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/car"
+				}
+			},
+			{
+				"when": "desk1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/desk1"
+				}
+			},
+			{
+				"when": "shelf1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/shelf1"
+				}
+			},
+			{
+				"when": "tv1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/tv1"
+				}
+			},
+			{
+				"when": "speaker1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/speaker1"
+				}
+			},
+			{
+				"when": "sofa1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/sofa1"
+				}
+			},
+			{
+				"when": "lamp1_disabled",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/lamp1_disabled"
+				}
+			},
+			{
+				"when": "lamp1_enabled",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/lamp1_enabled"
+				}
+			},
+			{
+				"when": "button1_clicked",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/button1_clicked"
+				}
+			},
+			{
+				"when": "warderobe1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/warderobe1"
+				}
+			},
+			{
+				"when": "shelf2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/shelf2"
+				}
+			},
+			{
+				"when": "desk2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/desk2"
+				}
+			},
+			{
+				"when": "plant1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/plant1"
+				}
+			},
+			{
+				"when": "plant2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/plant2"
+				}
+			},
+			{
+				"when": "plant3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/plant3"
+				}
+			},
+			{
+				"when": "plant4",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/plant4"
+				}
+			},
+			{
+				"when": "plant5",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/plant5"
+				}
+			},
+			{
+				"when": "dirt",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/dirt"
+				}
+			},
+			{
+				"when": "desk3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/desk3"
+				}
+			},
+			{
+				"when": "bed1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/bed1"
+				}
+			},
+			{
+				"when": "toilet1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/toilet1"
+				}
+			},
+			{
+				"when": "bath",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/bath"
+				}
+			},
+			{
+				"when": "washbasin",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/washbasin"
+				}
+			},
+			{
+				"when": "shelf3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/shelf3"
+				}
+			},
+			{
+				"when": "radiator1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/radiator1"
+				}
+			},
+			{
+				"when": "warderobe2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/warderobe2"
+				}
+			},
+			{
+				"when": "g_shelf4",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/g_shelf4"
+				}
+			},
+			{
+				"when": "wall_lamp1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/wall_lamp1"
+				}
+			},
+			{
+				"when": "radiator2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/radiator2"
+				}
+			},
+			{
+				"when": "carpet1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/carpet1"
+				}
+			},
+			{
+				"when": "pin_board",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/pin_board"
+				}
+			},
+			{
+				"when": "interior1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/interior1"
+				}
+			},
+			{
+				"when": "interior2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/interior2"
+				}
+			},
+			{
+				"when": "interior3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/interior3"
+				}
+			},
+			{
+				"when": "interior4",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/interior4"
+				}
+			},
+			{
+				"when": "interior5",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/interior5"
+				}
+			},
+			{
+				"when": "interior6",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/interior6"
+				}
+			},
+			{
+				"when": "fake_window_room1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/fake_window_room1"
+				}
+			},
+			{
+				"when": "cube_black",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/cube_black"
+				}
+			},
+			{
+				"when": "cube_red",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/cube_red"
+				}
+			},
+			{
+				"when": "cube_white",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/cube_white"
+				}
+			},
+			{
+				"when": "clock1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/clock1"
+				}
+			},
+			{
+				"when": "coat_hanger",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/coat_hanger"
+				}
+			},
+			{
+				"when": "distinction1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/distinction1"
+				}
+			},
+			{
+				"when": "distinction2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/distinction2"
+				}
+			},
+			{
+				"when": "lamp2_enabled",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/lamp2_enabled"
+				}
+			},
+			{
+				"when": "lamp2_disabled",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/lamp2_disabled"
+				}
+			},
+			{
+				"when": "globe1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/globe1"
+				}
+			},
+			{
+				"when": "books1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/books1"
+				}
+			},
+			{
+				"when": "books2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/books2"
+				}
+			},
+			{
+				"when": "books3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/books3"
+				}
+			},
+			{
+				"when": "books4",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/books4"
+				}
+			},
+			{
+				"when": "books5",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/books5"
+				}
+			},
+			{
+				"when": "written_paper1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/written_paper1"
+				}
+			},
+			{
+				"when": "written_paper2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/written_paper2"
+				}
+			},
+			{
+				"when": "written_paper3",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/written_paper3"
+				}
+			},
+			{
+				"when": "monitor",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/monitor"
+				}
+			},
+			{
+				"when": "desk4",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/desk4"
+				}
+			},
+			{
+				"when": "monitor2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/monitor2"
+				}
+			},
+			{
+				"when": "computer_components",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/computer_components"
+				}
+			},
+			{
+				"when": "cube",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/cube"
+				}
+			},
+			{
+				"when": "globe2",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/globe2"
+				}
+			},
+			{
+				"when": "frame1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/frame1"
+				}
+			},
+			{
+				"when": "laptop1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/laptop1"
+				}
+			},
+			{
+				"when": "books6",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/block/books6"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"version": "Beta",
+	"You haven't loaded ResourcePack!": "",
+
+	"pl.target.000": "§7<Alex> ",
+
+	"pl.quest.000": "§2Z",
+	"pl.quest.001": "§2A",
+	"pl.quest.002": "§2D",
+	"pl.quest.003": "§2A",
+	"pl.quest.004": "§2N",
+	"pl.quest.005": "§2I",
+	"pl.quest.006": "§2E",
+	"pl.quest.007": "§4§l!§r §2§nZADANIE§r §4§l!",
+
+	"pl.quest.008": "§2§lZgaś silnik i wyjdź z samochodu.",
+	"pl.dial.008.info": "§2§lKliknij prawy przycisk aby wejść w interakcję",
+	"pl.quest.009": "§2§lZnajdź miejsce zbrodni i ofiarę.",
+	"pl.quest.010": "§2§lRozejrzyj się po mieszkaniu.",
+	"pl.quest.011": "§2§lZnajdź narzędzie do otwarcia drzwi.",
+	"pl.quest.011.allthings": "§2§lZnajdź narzędzie do otwarcia drzwi, lub opuść miejsce zbrodni.",
+
+	"pl.dial.000": "No dobra, dotarłem.",
+	"pl.dial.001": "Znowu te podejrzane okolice.",
+	"pl.dial.002": "Ciekawe, co tym razem zastanę.",
+	"pl.dial.003": "Ostatnie sprawy były naprawdę pojebane.",
+	"pl.dial.003.filter": "Ostatnie sprawy były naprawdę dziwne.",
+	"pl.dial.004": "Muszę być czujny.",
+	"pl.dial.005": "Ten symbol, który pojawia się na miejscach zbrodni, ciągle mnie prześladuje.",
+
+	"pl.dial.005.skip": "Nie mam całego dnia na to śledztwo.",
+
+	"pl.dial.006": "Zaczynam od przeszukania miejsca zbrodni",
+	"pl.dial.007": "Może w końcu znajdę jakiś sensowny trop.",
+	"pl.dial.008": "Czas na robotę, Alex.",
+	"pl.dial.008.crowbar": "Łom, raczej go nie potrzebuję...",
+	"pl.dial.008.timeout": "Wydaje mi się że miejsce śledztwa jest w tym żółtym budynku.",
+	"pl.dial.008.timeout2": "Może tam powinienem zajrzeć?",
+
+	"pl.dial.009": "O kurwa,",
+	"pl.dial.009.filter": "O kurde,",
+	"pl.dial.010": "Jak tu capi",
+	"pl.dial.011": "Współczuję każdemu kto tu musi mieszkać...",
+
+	"pl.dial.012": "To chyba tu",
+
+	"pl.dial.013": "Ja nie mogę...",
+	"pl.dial.014": "Jaki tu chlew",
+
+	"pl.dial.015": "No to nieźle go poskładał...",
+	"pl.dial.016": "Raczej miał marne szanse na przeżycie",
+	"pl.dial.017": "Zrobię zdjęcie i rozejrze się po tym mieszkaniu,",
+	"pl.dial.018": "o ile to można nazwać mieszkaniem...",
+
+	"pl.dial.019": "Ofiara prawdopodobnie została zamordowana nożem.",
+	"pl.dial.020": "Ma dużo ran na ciele.",
+	"pl.dial.021": "Dodatkowo widzę że ma rozbitą głowę",
+	"pl.dial.022": "Pewnie się o coś uderzył",
+
+	"pl.dial.023": "Broń...",
+	"pl.dial.024": "Ofiara próbowała się bronić?",
+
+	"pl.dial.025": "Zdjęcie ofiary",
+	"pl.dial.026": "Widzę że lubi swój garnitur",
+
+	"pl.dial.027": "Komputer ofiary, zniszczony.",
+	"pl.dial.028": "Może spróbuję go później naprawić?",
+	"pl.dial.029": "Pewnie ma wiele informacji o właścicielu.",
+
+	"pl.dial.030": "Porozrzucane kwiatki i książki",
+	"pl.dial.031": "Prawdopodobnie była tu niezła szarpanina",
+	"pl.dial.032": "Ofiara prawdopodobnie otworzyła drzwi gdy próbowała uciec przed mordercą",
+	"pl.dial.032.weapon": "Dlatego leży tam ta broń, próbował się bronić",
+
+	"pl.dial.033": "Zablokowane drzwi...",
+	"pl.dial.034": "Może tam znajdę dodatkowe wskazówki",
+	"pl.dial.034.crowbar": "Może tamten łom który znalazłem mi pomoże",
+
+	"pl.dial.035": "Odblokowane...",
+
+	"pl.dial.036": "",
+	"pl.dial.037": "",
+	"pl.dial.038": "",
+	"pl.dial.039": "",
+	"pl.dial.040": "",
+	"pl.dial.041": "",
+	"pl.dial.042": "",
+	"pl.dial.043": "",
+	"pl.dial.044": "",
+	"pl.dial.045": "",
+	"pl.dial.046": "",
+	"pl.dial.047": "",
+	"pl.dial.048": "",
+	"pl.dial.049": ""
+}

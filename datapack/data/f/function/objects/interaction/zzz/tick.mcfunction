@@ -1,0 +1,1 @@
+execute as @e[tag=objects.interaction.interaction] at @s run function f:objects/interaction/zzz/tick_as_interaction

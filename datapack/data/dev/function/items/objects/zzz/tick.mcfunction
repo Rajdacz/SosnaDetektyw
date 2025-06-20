@@ -1,0 +1,1 @@
+execute as @e[tag=objects.spawn] at @s run function dev:items/objects/zzz/spawn with entity @s data

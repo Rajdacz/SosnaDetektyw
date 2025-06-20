@@ -1,0 +1,1 @@
+execute as @e[tag=item_placer] at @s run function f:item_placer/tick_as

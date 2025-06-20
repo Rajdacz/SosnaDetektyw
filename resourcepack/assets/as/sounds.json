@@ -1,0 +1,171 @@
+{
+    "block.door_close": {
+        "sounds": [
+            {"name": "as:block/door_close"}
+        ]
+    },
+    "block.door_open": {
+        "sounds": [
+            
+            {"name": "as:block/door_open"}
+            
+        ]
+    },
+    "block.door_handle": {
+        "sounds": [
+            
+            {"name": "as:block/door_handle"}
+            
+        ]
+    },
+    "ambient.wind_storm": {
+        "sounds": [
+        
+            {"name": "as:ambient/wind/1"},
+            {"name": "as:ambient/wind/2"},
+            {"name": "as:ambient/wind/3"},
+            {"name": "as:ambient/wind/4"},
+            {"name": "as:ambient/wind/5"},
+            {"name": "as:ambient/wind/6"},
+            {"name": "as:ambient/wind/7"},
+            {"name": "as:ambient/wind/8"}
+    ]
+    },
+    "ambient.wind_leaves": {
+        "sounds": [
+            {"name": "as:ambient/wind_leaves/1"},
+            {"name": "as:ambient/wind_leaves/2"},
+            {"name": "as:ambient/wind_leaves/3"},
+            {"name": "as:ambient/wind_leaves/4"}
+
+    ]
+    },
+    "ambient.in_wind_storm": {
+        "sounds": [
+            {"name": "as:ambient/in_wind/1"},
+            {"name": "as:ambient/in_wind/2"},
+            {"name": "as:ambient/in_wind/3"},
+            {"name": "as:ambient/in_wind/4"},
+            {"name": "as:ambient/in_wind/5"},
+            {"name": "as:ambient/in_wind/6"},
+            {"name": "as:ambient/in_wind/7"},
+            {"name": "as:ambient/in_wind/8"}
+    ]
+    },
+    "ambient.in_wind_leaves": {
+        "sounds": [
+            {"name": "as:ambient/in_wind_leaves_01"},
+            {"name": "as:ambient/in_wind_leaves_02"},
+            {"name": "as:ambient/in_wind_leaves_03"},
+            {"name": "as:ambient/in_wind_leaves_04"}
+
+    ]
+    },
+    "ambient.thunder": {
+        "sounds": [
+            {"name": "as:ambient/thunder/1"},
+            {"name": "as:ambient/thunder/2"},
+            {"name": "as:ambient/thunder/3"},
+            {"name": "as:ambient/thunder/4"},
+            {"name": "as:ambient/thunder/5"},
+            {"name": "as:ambient/thunder/6"}
+
+    ]
+    },
+    "ambient.in_thunder": {
+        "sounds": [
+            {"name": "as:ambient/in_thunder/1"},
+            {"name": "as:ambient/in_thunder/2"},
+            {"name": "as:ambient/in_thunder/3"},
+            {"name": "as:ambient/in_thunder/4"},
+            {"name": "as:ambient/in_thunder/5"},
+            {"name": "as:ambient/in_thunder/6"}
+
+    ]
+    },
+    "block.button1": {
+        "sounds": [
+            
+            {"name": "as:block/button1", "pitch": 0.7},
+            {"name": "as:block/button1", "pitch": 0.8},
+            {"name": "as:block/button1", "pitch": 0.9},
+            {"name": "as:block/button1", "pitch": 0.6}
+            
+        ]
+    },
+    "block.shelf_open": {
+        "sounds": [
+            
+            {"name": "as:block/shelf_open", "pitch": 1.0},
+            {"name": "as:block/shelf_open", "pitch": 1.1},
+            {"name": "as:block/shelf_open", "pitch": 1.2},
+            {"name": "as:block/shelf_open", "pitch": 0.9}
+            
+        ]
+    },
+    "block.shelf_close": {
+        "sounds": [
+            
+            {"name": "as:block/shelf_close", "pitch": 1.0},
+            {"name": "as:block/shelf_close", "pitch": 1.1},
+            {"name": "as:block/shelf_close", "pitch": 1.2},
+            {"name": "as:block/shelf_close", "pitch": 0.9}
+            
+        ]
+    },
+    "ambient.rain_car": {
+        "sounds": [
+            
+            {"name": "as:ambient/rain_car/1"},
+            {"name": "as:ambient/rain_car/2"},
+            {"name": "as:ambient/rain_car/3"},
+            {"name": "as:ambient/rain_car/4"},
+            {"name": "as:ambient/rain_car/5"},
+            {"name": "as:ambient/rain_car/6"},
+            {"name": "as:ambient/rain_car/7"}
+            
+        ]
+    },
+    "ambient.rain_car_in": {
+        "sounds": [
+            
+            {"name": "as:ambient/rain_in_car/1"},
+            {"name": "as:ambient/rain_in_car/2"},
+            {"name": "as:ambient/rain_in_car/3"},
+            {"name": "as:ambient/rain_in_car/4"},
+            {"name": "as:ambient/rain_in_car/5"},
+            {"name": "as:ambient/rain_in_car/6"},
+            {"name": "as:ambient/rain_in_car/7"}
+            
+        ]
+    },
+    "sfx.engine_turn_on": {"sounds": [{"name": "as:sfx/engine_turn_on"}]
+    },
+    "sfx.engine_turn_off": {"sounds": [{"name": "as:sfx/engine_turn_off"}]
+    },
+    "sfx.engine_idle": {"sounds": [{"name": "as:sfx/engine_idle"}]
+    },
+    "sfx.quest_ping": {"sounds": [{"name": "as:sfx/quest_ping"}]
+    },
+    "sfx.quest_warning": {"sounds": [{"name": "as:sfx/quest_warning"}]
+    },
+    "sfx.quest_info": {"sounds": [{"name": "as:sfx/quest_info"}]
+    },
+    "sfx.seat_belt": {"sounds": [{"name": "as:sfx/seat_belt"}]
+    },
+    "sfx.seat_belt_warning": {"sounds": [{"name": "as:sfx/seat_belt_warning"}]
+    },
+    "sfx.car_open_door": {"sounds": [{"name": "as:sfx/car_open_door"}]
+    },
+    "sfx.car_close_door": {"sounds": [{"name": "as:sfx/car_close_door"}]
+    },
+    "music.car_radio": {"sounds": [{"name": "as:music/car_radio"}]
+    },
+    "sfx.take_photo": {"sounds": [{"name": "as:sfx/take_photo"}]
+    },
+    "sfx.crowbar": {"sounds": [{"name": "as:sfx/crowbar"}]
+    },
+
+    "voices.main_character.pl.dial.000": {"sounds": [{"name": "as:voices/pl/arrived1"}]
+    }
+}

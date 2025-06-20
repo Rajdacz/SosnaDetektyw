@@ -1,0 +1,1 @@
+function f:game/missions/tutorial/zzz/tick

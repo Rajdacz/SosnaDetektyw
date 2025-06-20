@@ -1,0 +1,1 @@
+$give @s endermite_spawn_egg[custom_data={"models.block.item":1b},custom_model_data={strings:["$(model)"]},item_name='{"text":"ModelBlock: $(model)","color":"light_purple","italic":false}',entity_data={id:"minecraft:marker",Tags:["models.block.spawn"],data:{id:"minecraft:endermite_spawn_egg",components:{"minecraft:custom_model_data":{strings:["$(model)"]}}}}]

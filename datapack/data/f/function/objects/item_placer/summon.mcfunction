@@ -1,0 +1,1 @@
+$summon minecraft:item_display ~ ~ ~ {Tags:["objects.item_placer"],Passengers:[{id:"interaction",Tags:["objects.item_placer.interaction"],width:$(width),height:$(height)}],transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.0f,1.0f,1.0f],translation:[0.0f,0.5f,0.0f]},item_display:"ground"}

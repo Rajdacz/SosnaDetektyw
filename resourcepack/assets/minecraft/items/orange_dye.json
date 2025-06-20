@@ -1,0 +1,61 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/orange_dye"
+		},
+		"cases": [
+			{
+				"when": "crowbar",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/item/crowbar"
+				}
+			},
+			{
+				"when": "flashlight",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/item/flashlight"
+				}
+			},
+			{
+				"when": "phone",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/item/phone"
+				}
+			},
+			{
+				"when": "picklock",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/item/picklock"
+				}
+			},
+			{
+				"when": "pistol",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/item/pistol"
+				}
+			},
+			{
+				"when": "car_key",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/item/car_key"
+				}
+			},
+			{
+				"when": "frame1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "as:item/item/frame1"
+				}
+			}
+		]
+	}
+}

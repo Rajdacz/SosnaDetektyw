@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/iron_bars",
+		"edge": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 12],
+			"to": [9, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 2, 15]},
+			"faces": {
+				"north": {"uv": [2, 0, 4, 14], "texture": "#edge"},
+				"east": {"uv": [2, 0, 4, 14], "texture": "#edge"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#edge"},
+				"west": {"uv": [2, 0, 4, 14], "texture": "#edge"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#edge"},
+				"down": {"uv": [2, 0, 4, 2], "texture": "#edge"}
+			}
+		},
+		{
+			"from": [7, 7, 14],
+			"to": [9, 9, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 17]},
+			"faces": {
+				"north": {"uv": [0, 7, 2, 9], "texture": "#edge"},
+				"east": {"uv": [0, 7, 2, 9], "texture": "#edge"},
+				"south": {"uv": [0, 7, 2, 9], "texture": "#edge"},
+				"west": {"uv": [0, 7, 2, 9], "texture": "#edge"},
+				"up": {"uv": [0, 7, 2, 9], "texture": "#edge"},
+				"down": {"uv": [0, 7, 2, 9], "texture": "#edge"}
+			}
+		},
+		{
+			"from": [7, 12, 9],
+			"to": [9, 14, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 13]},
+			"faces": {
+				"north": {"uv": [4, 2, 7, 4], "texture": "#edge"},
+				"east": {"uv": [4, 2, 7, 4], "texture": "#edge"},
+				"south": {"uv": [4, 2, 7, 4], "texture": "#edge"},
+				"west": {"uv": [4, 2, 7, 4], "texture": "#edge"},
+				"up": {"uv": [4, 2, 7, 4], "texture": "#edge"},
+				"down": {"uv": [4, 2, 7, 4], "texture": "#edge"}
+			}
+		},
+		{
+			"from": [7, 0, 8],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 12]},
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#edge"},
+				"east": {"uv": [3, 0, 4, 16], "texture": "#edge"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#edge"},
+				"west": {"uv": [3, 0, 4, 16], "texture": "#edge"},
+				"up": {"uv": [2, 0, 4, 1], "texture": "#edge"},
+				"down": {"uv": [2, 0, 4, 1], "texture": "#edge"}
+			}
+		}
+	]
+}

@@ -1,0 +1,1 @@
+function f:menu/main/tick

@@ -1,0 +1,1 @@
+$data merge entity @s {Tags:["temp","objects.barrier.border"],data:{name:"barrier",min:["~-$(temp)","~0","~-$(temp)"],max:["~$(temp)","~$(temp2)","~$(temp)"]}}

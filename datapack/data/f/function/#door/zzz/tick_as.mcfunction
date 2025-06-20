@@ -1,0 +1,1 @@
+execute on passengers as @s[tag=aj.data] at @s run function f:door/zzz/as_camera with entity @s data.cameras.doorlock

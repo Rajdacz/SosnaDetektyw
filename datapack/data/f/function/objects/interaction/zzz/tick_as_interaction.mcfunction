@@ -1,0 +1,2 @@
+execute if data entity @s interaction if entity @s[tag=!disabled] run function f:objects/interaction/zzz/clicked_right with entity @s Passengers[0].data
+execute if data entity @s attack if entity @s[tag=!disabled] run function f:objects/interaction/zzz/clicked_left with entity @s Passengers[0].data

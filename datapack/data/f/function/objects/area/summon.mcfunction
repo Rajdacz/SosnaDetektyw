@@ -1,0 +1,1 @@
+$summon minecraft:marker ~ ~ ~ {Tags:["objects.area"],data:{min:["~0","~0","~0"],max:["~$(x)","~$(y)","~$(z)"],command:"say Edit command in marker data"}}

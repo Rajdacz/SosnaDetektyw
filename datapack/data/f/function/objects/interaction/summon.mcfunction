@@ -1,0 +1,1 @@
+$summon minecraft:interaction ~ ~ ~ {width:$(width),height:$(height),Tags:["objects.interaction","objects.interaction.interaction"],Passengers:[{id:"marker",Tags:["objects.interaction.marker"],data:{on_lmb:"say Left click (change command in marker data)",on_rmb:"say Right click (change command in marker data)"}}]}

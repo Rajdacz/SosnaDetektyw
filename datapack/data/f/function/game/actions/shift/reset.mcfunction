@@ -1,0 +1,1 @@
+tag @a remove player.info_show

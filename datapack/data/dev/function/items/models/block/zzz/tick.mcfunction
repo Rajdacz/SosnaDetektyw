@@ -1,0 +1,1 @@
+execute as @e[tag=models.block.spawn] at @s run function dev:items/models/block/zzz/spawn with entity @s

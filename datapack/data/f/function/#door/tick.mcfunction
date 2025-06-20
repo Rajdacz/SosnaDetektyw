@@ -1,0 +1,1 @@
+execute as @e[tag=aj.door.root] run function f:door/zzz/tick_as

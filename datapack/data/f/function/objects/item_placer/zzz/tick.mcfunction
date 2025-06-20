@@ -1,0 +1,1 @@
+execute as @e[tag=objects.item_placer.interaction] at @s run function f:objects/item_placer/zzz/tick_as_interaction

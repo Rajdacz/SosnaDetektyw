@@ -1,0 +1,1 @@
+execute as @a[tag=player.in_menu] at @s run function f:menu/main/tick_as_player

@@ -1,0 +1,1 @@
+$summon minecraft:item_display ~ ~ ~ {Tags:["objects.barrier"],Passengers:[{id:"shulker",Tags:["objects.barrier.hitbox"],NoAI:1b,Silent:1b,Invulnerable:1b,active_effects:[{amplifier:1b,duration:-1,id:"minecraft:invisibility",show_particles:0b}],attributes:[{base:$(size)d,id:"minecraft:scale"}]}]}

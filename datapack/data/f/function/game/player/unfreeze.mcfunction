@@ -1,0 +1,1 @@
+execute as @a[tag=player.in_game] run attribute @s minecraft:movement_speed base set 0.05

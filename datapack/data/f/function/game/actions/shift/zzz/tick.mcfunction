@@ -1,0 +1,1 @@
+execute as @a[tag=!player.info_show,tag=!player.ignore_shift,tag=player.in_game] if predicate f:input/sneak run function f:game/actions/shift/onclick

@@ -1,0 +1,1 @@
+execute if entity @s[tag=objects.playing] if score @s timer matches 1.. run scoreboard players add @s timer 1

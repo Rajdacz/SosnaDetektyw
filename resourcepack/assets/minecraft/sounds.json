@@ -1,0 +1,8 @@
+{
+    "entity.lightning_bolt.thunder": {"replace":true},
+    "entity.item.pickup": {"replace": true},
+    "entity.lightning_bolt.impact": {"replace": true},
+    "entity.player.big_fall": {"replace": true},
+    "weather.rain":{"replace":true},
+    "weather.rain.above":{"replace":true}
+}

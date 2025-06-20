@@ -1,0 +1,1 @@
+$give @s endermite_spawn_egg[custom_data={"objects.item":1b},entity_data={id:"minecraft:marker",Tags:["objects.spawn"],data:{object:$(object),props:$(props)}},item_model="structure_block",enchantment_glint_override=1b,item_name='{"text":"Object: $(object)","color":"light_purple","italic":false}',lore=['{"text":"Properties: $(props)","color":"gray","italic":false}']]

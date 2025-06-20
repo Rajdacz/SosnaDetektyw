@@ -1,0 +1,3 @@
+execute if data entity @s {item:{components:{"minecraft:custom_model_data":{strings:["trashcan1"]}}}} run function f:ambient/models/zzz/as_trashcan
+execute if data entity @s {item:{components:{"minecraft:custom_model_data":{strings:["trashcan2"]}}}} run function f:ambient/models/zzz/as_trashcan
+execute if data entity @s {item:{components:{"minecraft:custom_model_data":{strings:["trashcan3"]}}}} run function f:ambient/models/zzz/as_trashcan
